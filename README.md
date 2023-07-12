@@ -5,6 +5,7 @@
 <p>To use SageMaker Jumpstart foundation model for text generation, use the notebook to deploy an endpoint and test.</p>
 
 <p>To use third-party APIs such as OpenAI APIs and SERP APIs, you might risk sharing your private information with third-party API providers. Be caucious of your senstive information.</p>
+<p>This guidance is for informational purposes only.  You should still perform your own independent assessment, and take measures to ensure that you comply with your own specific quality control practices and standards, and the local rules, laws, regulations, licenses and terms of use that apply to you, your content, and the third-party generative AI service referenced in this guidance.  AWS has no control or authority over the third-party generative AI service referenced in this guidance, and does not make any representations or warranties that the third-party generative AI service is secure, virus-free, operational, or compatible with your production environment and standards. AWS does not make any representations, warranties or guarantees that any information in this guidance will result in a particular outcome or result.</p>
 
 ## Config environment variables
 <p>This code has been tested on EC2 server with al2023-ami-2023.0.20230503.0-kernel-6.1-x86_64 AMI type. You will need to configure you security group to allow inbound traffic to port 7862.</p>
