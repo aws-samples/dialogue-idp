@@ -39,8 +39,6 @@ dill==0.3.6
 distro==1.5.0
 docutils==0.16
 duckdb==0.8.0
-ec2-hibinit-agent==1.0.2
-editdistance==0.6.2
 exceptiongroup==1.1.1
 faiss-cpu==1.7.4
 fastapi==0.96.0
@@ -129,7 +127,6 @@ python-multipart==0.0.6
 pytz==2022.7.1
 PyYAML==5.4.1
 regex==2023.6.3
-release-notification==1.2
 requests==2.31.0
 rpm==4.16.1.3
 ruamel.yaml==0.16.6
@@ -140,14 +137,8 @@ sagemaker-experiments==0.1.42
 schema==0.7.5
 selinux==3.4
 semantic-version==2.10.0
-sepolicy==3.4
-setools==4.4.1
-six==1.15.0
-smdebug-rulesconfig==1.0.1
 sniffio==1.3.0
 SQLAlchemy==2.0.15
-starlette==0.27.0
-support-info==1.0
 sympy==1.12
 tabulate==0.9.0
 tenacity==8.2.2
