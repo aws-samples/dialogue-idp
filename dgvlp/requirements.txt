@@ -1,0 +1,14 @@
+gradio
+gradio_client
+openai-whisper
+torch
+torchvision
+typing-inspect
+typing_extensions
+keybert
+boto3
+text-generation
+transformers
+opencv-python
+uploadserver
+langchain
